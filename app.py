@@ -11,7 +11,7 @@ def reda_sunet():
     st.markdown(html_string, unsafe_allow_html=True)
 
 # Introdu cheia ta API aici
-API_KEY = "CHEIA_TA_AICI"
+API_KEY ="422da219d1faff67361b7a2e4ab9fd10"
 URL = "https://v3.football.api-sports.io/fixtures?live=all"
 HEADERS = {"x-apisports-key": API_KEY}
 
